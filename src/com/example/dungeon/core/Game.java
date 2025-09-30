@@ -29,7 +29,7 @@ public class Game {
             System.out.println( "Dungeon Mini" );
             System.out.println( "Версия: 1.0" );
             System.out.println( "Java-версия : " + System.getProperty( "java.version" ) );
-            System.out.println( "https://github.com/Sel00k/JavaCourse1" );
+            System.out.println( "https://github.com/Sel00k/JavaCourse01" );
         });
         commands.put( "gc-stats" , (ctx , a ) -> {
             Runtime rt = Runtime.getRuntime();
